@@ -1,0 +1,20 @@
+module.exports = {
+  //sortingMethod: 'lineLength',
+  //plugins: ['./node_modules/prettier-plugin-sort-imports/dist/index.js'],
+  // printWidth: 80,
+  // tabWidth: 4,
+  // trailingComma: 'all',
+  //singleQuote: true,
+  //semi: true,
+  // importOrder: [
+  //     '<BUILTIN_MODULES>',
+  //     '<THIRD_PARTY_MODULES>',
+  //     '^@core/(.*)$',
+  //     '^@server/(.*)$',
+  //     '^@ui/(.*)$',
+  //     '^[./]',
+  // ],
+  //importOrder: ['^@core/(.*)$', '^@server/(.*)$', '^@ui/(.*)$', '^[./]'],
+  // importOrderSeparation: true,
+  // importOrderSortSpecifiers: true,
+};
